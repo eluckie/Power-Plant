@@ -20,15 +20,12 @@ button {
 h1 {
   color: rgb(85, 2, 43);
   border: 2px dotted rgb(255, 0, 127);
+  background-color: lightpink;
   margin: 6px;
   padding: 6px;
 }
 
 h3 {
   color:rgb(216, 8, 88);
-}
-
-#plant1 {
   background-color: lightpink;
-  width: 400px;
 }
